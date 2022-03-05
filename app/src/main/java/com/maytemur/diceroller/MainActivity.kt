@@ -99,7 +99,7 @@ class MainActivity : AppCompatActivity() {
         }
         if (diceRoll == diceRoll2) {
             resultTextView.text = "You win the prize!! with 2 lucky number"
-            resultTextView2.text = "Congrulations!!!"
+            resultTextView2.text = "Congratulations!!!"
         }
     }
 }
